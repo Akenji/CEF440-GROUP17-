@@ -121,10 +121,4 @@ A fully functional mobile application that:
 - N Bertrand
 - N Blandine
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
